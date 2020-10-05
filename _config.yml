@@ -1,11 +1,15 @@
 # Site Settings
 title: Bulma Clean Theme
 tagline: Bulma Clean Theme
-email: your-email@domain.com
+email: kkrkstrust@gmail.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.github.com/aiclouds/bulma-clean-theme"
+  
+remote_theme: chrisrhymes/bulma-clean-theme
+plugins:
+- github-pages
+baseurl: "/bulma-cleanoct"
+url: "https://www.github.com/aiclouds/bulma-cleanoct"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
