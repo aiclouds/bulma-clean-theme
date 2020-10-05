@@ -40,6 +40,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+theme: bulma-clean-theme
+
 livereload: true
 
 sass:
