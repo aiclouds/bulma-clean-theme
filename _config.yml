@@ -40,7 +40,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-theme: bulma-clean-theme
+theme: jekyll-theme-time-machine
 
 livereload: true
 
